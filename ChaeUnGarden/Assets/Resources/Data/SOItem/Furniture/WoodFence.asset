@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4984d92f511fcd640b3456511c1e91a5, type: 3}
+  m_Name: WoodFence
+  m_EditorClassIdentifier: 
+  Name: "\uB098\uBB34 \uC6B8\uD0C0\uB9AC"
+  Info: "\uAE30\uBCF8\uC801\uC778 \uB098\uBB34\uC6B8\uD0C0\uB9AC"
+  ItemType: 2
+  IsLock: 0
+  Amount: 2
+  Price: 200
+  Icon: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+  Index: 0
+  furnitureObj: {fileID: 6253041290535114754, guid: 98fe0f3c08322a04ab1970928921602c, type: 3}
+  tileSprites:
+  - sprite: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00000101
+    isFlip: 0
+  - sprite: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01010000
+    isFlip: 1
+  - sprite: {fileID: 1207990984, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00010100
+    isFlip: 0
+  - sprite: {fileID: 1207990984, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01000001
+    isFlip: 1
+  - sprite: {fileID: 58537173, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01000100
+    isFlip: 0
+  - sprite: {fileID: 1195218465, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00010001
+    isFlip: 0
+  - sprite: {fileID: -1147675381, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00010101
+    isFlip: 0
+  - sprite: {fileID: -1147675381, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01010001
+    isFlip: 1
+  - sprite: {fileID: -785578601, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01000101
+    isFlip: 0
+  - sprite: {fileID: -785578601, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01010100
+    isFlip: 1
+  - sprite: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00010000
+    isFlip: 1
+  - sprite: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 01000000
+    isFlip: 1
+  - sprite: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00000100
+    isFlip: 0
+  - sprite: {fileID: 1523999845, guid: 8a4366809faab4d4e9f9cb59b84fef0a, type: 3}
+    isContact: 00000101
+    isFlip: 0

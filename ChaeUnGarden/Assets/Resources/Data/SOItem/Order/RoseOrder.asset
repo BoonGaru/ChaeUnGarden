@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05197af7ba5396f41b44922b8583f4e5, type: 3}
+  m_Name: RoseOrder
+  m_EditorClassIdentifier: 
+  Orderer: {fileID: 11400000, guid: ebc4ca34adfca0846aee1c326256cd17, type: 2}
+  OrdererImage:
+  - {fileID: 21300000, guid: ae852a04724c0424f87d92d0bbc83c79, type: 3}
+  - {fileID: 21300000, guid: ae852a04724c0424f87d92d0bbc83c79, type: 3}
+  - {fileID: 21300000, guid: 236e8aa8c58a27f4d91182d1a427dea5, type: 3}
+  OrderName: "\uC7A5\uBBF8"
+  OrderDetail:
+  - "\uC744 \uB9CC\uB4E4\uC5B4 \uC92C\uC73C\uBA74 \uC88B\uACA0\uC5B4\uC694. \n\uC0C9\uC740 "
+  - "\uC73C\uB85C, \uD06C\uAE30\uB294 "
+  - "\uBD80\uD0C1\uD574\uC694.\n\uAE08\uC561\uC740 "
+  - "G\uAE4C\uC9C0 \uC0DD\uAC01 \uC911\uC774\uC5D0\uC694."
+  TakeDetail:
+  - "\uC548\uB155\uD558\uC138\uC694, \uC608\uC57D\uD55C "
+  - " \uCC3E\uC73C\uB7EC \uC654\uC5B4\uC694.\r\n\uC0C9\uC740 "
+  - ", \uD06C\uAE30\uB294 "
+  - "\uC778 "
+  - "\uC694.\n\uC644\uC131 \uB418\uC5C8\uB098\uC694?"
+  ReactionDetail:
+  - "\uAC10\uC0AC\uD574\uC694. \uB610 \uC62C\uAC8C\uC694."
+  - "...\uAE30\uBCF8\uC774 \uC548\uB418\uC5B4 \uC788\uB124\uC694."
+  RequestType: 0
+  RequestSize: 0
+  ColorType: 1
+  FlowerType: 0
+  SignatureFlower: {fileID: 11400000, guid: 7486b8156046be347961c21d733dbde2, type: 2}
+  Budget: 500
+  OrderIndex: 0

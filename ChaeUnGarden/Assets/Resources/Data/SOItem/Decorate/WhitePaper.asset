@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3119c46733e82140af6fd3b8342bb6b, type: 3}
+  m_Name: WhitePaper
+  m_EditorClassIdentifier: 
+  Name: "\uD770 \uD3EC\uC7A5\uC9C0"
+  Info: 
+  ItemType: 0
+  IsLock: 0
+  Amount: 10
+  Price: 0
+  Icon: {fileID: 21300000, guid: 2db55b13f529db84c9b413ab34c34e3d, type: 3}
+  Index: 0
+  frontSprite: {fileID: 21300000, guid: a1e077e72346f264dbed2eceb6e43c85, type: 3}
+  backSprite: {fileID: 21300000, guid: df013b835b0e5324aaf888476fb43f26, type: 3}
+  colorType: 0
+  bouquetType: 0

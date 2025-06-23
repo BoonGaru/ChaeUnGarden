@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4984d92f511fcd640b3456511c1e91a5, type: 3}
+  m_Name: TulipTile
+  m_EditorClassIdentifier: 
+  Name: "\uD2A4\uB9BD \uBAA8\uC885"
+  Info: 
+  ItemType: 2
+  IsLock: 0
+  Amount: 0
+  Price: 1200
+  Icon: {fileID: 1967333514, guid: 11d45eae140fbfd43b89d2d644f0e2cd, type: 3}
+  Index: 1
+  furnitureObj: {fileID: 1466515964395046369, guid: 8443460f546ea304193ba7b421628a6f, type: 3}
+  tileSprites:
+  - sprite: {fileID: 1967333514, guid: 11d45eae140fbfd43b89d2d644f0e2cd, type: 3}
+    isContact: 
+    isFlip: 0

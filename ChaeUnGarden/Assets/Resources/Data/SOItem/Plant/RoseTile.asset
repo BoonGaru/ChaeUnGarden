@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4984d92f511fcd640b3456511c1e91a5, type: 3}
+  m_Name: RoseTile
+  m_EditorClassIdentifier: 
+  Name: "\uC7A5\uBBF8 \uBAA8\uC885"
+  Info: 
+  ItemType: 2
+  IsLock: 0
+  Amount: 0
+  Price: 1000
+  Icon: {fileID: -859449513, guid: b3575f4756914da49bda0987f0de3d30, type: 3}
+  Index: 0
+  furnitureObj: {fileID: 8678079590943240900, guid: 7ee316dba16f3ac43bcb686091920bab, type: 3}
+  tileSprites:
+  - sprite: {fileID: -859449513, guid: b3575f4756914da49bda0987f0de3d30, type: 3}
+    isContact: 
+    isFlip: 0
